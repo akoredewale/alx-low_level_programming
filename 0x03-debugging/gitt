@@ -1,0 +1,5 @@
+echo 'commit message'
+read Filename
+git add .
+git commit -m "$commit message"
+git push
